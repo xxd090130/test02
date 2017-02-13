@@ -1,0 +1,28 @@
+From 674c8dbd399e3a0210f0d4ec692506c5b3edcb7e Mon Sep 17 00:00:00 2001
+From: xxd090130 <1136444038@qq.com>
+Date: Mon, 13 Feb 2017 16:51:24 +0800
+Subject: [PATCH] =?UTF-8?q?=E6=9B=B4=E6=94=B92?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ test.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/test.java b/test.java
+index dce0c49..ed5ea47 100644
+--- a/test.java
++++ b/test.java
+@@ -2,7 +2,7 @@ public class test
+ {
+ 	public static void main(String[] args){
+ 		print("test");
+-		print("test01");
++		print("test012");
+ 	}
+ 
+ 	
+-- 
+1.9.2.msysgit.0
+
